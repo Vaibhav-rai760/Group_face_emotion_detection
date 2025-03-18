@@ -1,4 +1,4 @@
-#Group Face Emotion Recognition
+#Group_Face_Emotion_Recognition
 The Group Face Emotion Recognition project is an advanced facial emotion recognition system designed to accurately detect and analyze human emotions through facial expressions in real time.
 
 🚀 Features
