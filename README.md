@@ -1,5 +1,5 @@
-# Group-Face-Emotion-Recognition
-The "Group Face Emotion Recogniton" project is an advanced facial emotion recognition project designed to accurately detect and analyze human emotions through facial expressions. 
+#Group Face Emotion Recognition
+The Group Face Emotion Recognition project is an advanced facial emotion recognition system designed to accurately detect and analyze human emotions through facial expressions in real time.
 
 🚀 Features
 ✅ Real-time Emotion Detection using OpenCV
@@ -13,24 +13,19 @@ Deep Learning: TensorFlow/Keras
 Computer Vision: OpenCV
 Dataset: FER-2013 (Downloaded from Kaggle)
 Programming Language: Python
-
-
 🏃 How to Run
 1️⃣ Clone the repository:
-
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Face-Emotion-Detection.git  
-cd Face-Emotion-Detection
+git clone https://github.com/your-username/Group-Face-Emotion-Recognition.git  
+cd Group-Face-Emotion-Recognition
 2️⃣ Install dependencies:
-
 bash
 Copy
 Edit
 pip install -r requirements.txt
 3️⃣ Run real-time detection:
-
 bash
 Copy
 Edit
@@ -42,3 +37,4 @@ python detect.py
 🔹 Human-Computer Interaction
 
 📌 Contributions are welcome! Feel free to fork, enhance, and submit a pull request. 😊
+
